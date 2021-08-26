@@ -33,7 +33,7 @@ The input parameters, simulation environment and results are defined below:
 A fast Schiffman phase shifter design tool enabled by DNN
 Deploymentation of the well-trained Schiffman inverse design network model.
 
-![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/design_tool.png)
+![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Design_tool.png)
 
 
 1. Prerequisites for Deployment 
