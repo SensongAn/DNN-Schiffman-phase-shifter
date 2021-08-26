@@ -63,7 +63,9 @@ in the MathWorks Documentation Center.
 **Files to Package for Standalone**
 
 -main.exe
+
 -MCRInstaller.exe 
+
     Note: if end users are unable to download the MATLAB Runtime using the
     instructions in the previous section, include it when building your 
     component by clicking the "Runtime included in package" link in the
