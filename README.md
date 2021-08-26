@@ -23,8 +23,7 @@ The input parameters, simulation environment and results are defined below:
 -   **Result:** Real parts and imaginary parts of the S11, S21 responses of
     each phase shifter structure are included in the **“real_S11”, “imag_S11”** matrix and **“real_S21”, “imag_S21”** matrix, respectively.
     
-![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg)
-<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="50%">
+<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="80%">
     
     
     
@@ -34,7 +33,7 @@ The input parameters, simulation environment and results are defined below:
 A fast Schiffman phase shifter design tool enabled by DNN
 Deploymentation of the well-trained Schiffman inverse design network model.
 
-![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Design_tool.png)
+<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Design_tool.jpg" width="60%">
 
 
 1. Prerequisites for Deployment 
