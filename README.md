@@ -60,7 +60,7 @@ in the MathWorks Documentation Center.
 
 **2. Files to Deploy and Package**
 
-<font color=red>Files to Package for Standalone</font>
+- ![#f03c15](Files to Package for Standalone) `#f03c15`
 
 -main.exe
 
