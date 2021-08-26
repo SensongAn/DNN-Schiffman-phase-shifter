@@ -26,9 +26,15 @@ The input parameters, simulation environment and results are defined below:
 ![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg)
     
     
+    
+    
+    
 # Schiffman phase shifter inverse design tool
 A fast Schiffman phase shifter design tool enabled by DNN
 Deploymentation of the well-trained Schiffman inverse design network model.
+
+![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/design tool.png)
+
 
 1. Prerequisites for Deployment 
 
@@ -72,6 +78,7 @@ Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
 Center.
 
-![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/design tool.png)
+
+
 
 
