@@ -1,4 +1,5 @@
 # Schiffman phase shifter data
+<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="60%">
 The input parameters, simulation environment and results are defined below:  
 
 -   **Substrate:** The phase shfiters are constructed based on the **Rogers R4003C** dielectric substrate, with the thickness of **1.524mm**, permittivity of **3.55** and loss tangent of **0.0027**. 
@@ -23,7 +24,7 @@ The input parameters, simulation environment and results are defined below:
 -   **Result:** Real parts and imaginary parts of the S11, S21 responses of
     each phase shifter structure are included in the **“real_S11”, “imag_S11”** matrix and **“real_S21”, “imag_S21”** matrix, respectively.
     
-<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="60%">
+
     
     
     
