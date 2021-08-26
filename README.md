@@ -65,7 +65,7 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 ```
 -main.exe
 
--MCRInstaller.exe 
+-MyAppInstaller.exe 
 
     Note: if end users are unable to download the MATLAB Runtime using the
     instructions in the previous section, include it when building your 
