@@ -10,7 +10,7 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Parameters:** The four design parameters, including **w1, w2, l1 and l2** showing in the figure below are listed in the **1st-4th** column in the "parameter" matrix. **w_50** indicates the width of the 50 Ohms transmission line, which equals to **3.4 mm** in this case.
 
--   **Excitation:** **Wave ports** for both port 1 and port 2.
+-   **Excitation:** Wave ports for both port 1 and port 2.
 
 -   **Boundary conditions:** Open and add space boundaries in all directions.
 
