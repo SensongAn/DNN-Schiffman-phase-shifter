@@ -36,6 +36,7 @@ The input parameters, simulation environment and results are defined below:
     
 # Schiffman phase shifter inverse design tool
 A fast Schiffman phase shifter design tool enabled by DNN
+
 Deploymentation of the well-trained Schiffman inverse design network model.
 Environment prerequisites are as follows:
 
