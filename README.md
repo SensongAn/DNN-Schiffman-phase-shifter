@@ -1,5 +1,6 @@
 # Schiffman phase shifter data
-<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="60%">
+<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="50%">
+
 The input parameters, simulation environment and results are defined below:  
 
 -   **Substrate:** The phase shfiters are constructed based on the **Rogers R4003C** dielectric substrate, with the thickness of **1.524mm**, permittivity of **3.55** and loss tangent of **0.0027**. 
@@ -59,7 +60,7 @@ in the MathWorks Documentation Center.
 
 2. Files to Deploy and Package
 
-Files to Package for Standalone 
+**Files to Package for Standalone **
 ================================
 -main.exe
 -MCRInstaller.exe 
