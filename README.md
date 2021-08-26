@@ -10,11 +10,11 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Excitation:** **Wave ports** for both port 1 and port 2.
 
--   **Boundary conditions:** **Open and add space** boundaries in all directions.
+-   **Boundary conditions:** Open and add space boundaries in all directions.
 
--   **Solver:** **Frequency Domain Solver** in CST.                              
+-   **Solver:** Frequency Domain Solver in CST.                              
 
--   **Frequency:** **1 to 5 GHz**, with a frequency spacing of 0.1GHz. 401 frequency points in total.
+-   **Frequency:** 1 to 5 GHz, with a frequency spacing of 0.1GHz. 401 frequency points in total.
 
 -   **Simulation tool:** All data are derived with the frequency domain solver
     in commercial simulation package CST MICROWAVE STUDIO.
