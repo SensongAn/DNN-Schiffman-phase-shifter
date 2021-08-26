@@ -1,4 +1,4 @@
-# Schiffman phase shifter data
+# Schiffman phase shifter dataset
 The input parameters, simulation environment and results are defined below:  
 
 <img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="50%">
