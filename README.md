@@ -61,10 +61,8 @@ in the MathWorks Documentation Center.
 **2. Files to Deploy and Package**
 
 ```diff
-- Files to Package for Standalone
+Files to Package for Standalone
 ```
-![#f03c15] Files to Package for Standalone `#f03c15`
-
 -main.exe
 
 -MCRInstaller.exe 
