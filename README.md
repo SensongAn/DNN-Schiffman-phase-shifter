@@ -39,9 +39,6 @@ A fast Schiffman phase shifter design tool enabled by DNN
 
 Deploymentation of the well-trained Schiffman inverse design network model.
 Environment prerequisites are as follows:
-
-
-
 **1. Prerequisites for Deployment**
 
 Verify that version 9.5 (R2018b) of the MATLAB Runtime is installed.   
