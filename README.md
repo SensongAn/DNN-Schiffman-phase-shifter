@@ -38,7 +38,7 @@ Deploymentation of the well-trained Schiffman inverse design network model.
 <img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Design_tool.png" width="60%">
 
 
-1. Prerequisites for Deployment 
+**1. Prerequisites for Deployment**
 
 Verify that version 9.5 (R2018b) of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
@@ -58,9 +58,9 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 "Distribute Applications" in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
 
-2. Files to Deploy and Package
+**2. Files to Deploy and Package**
 
-**Files to Package for Standalone**
+Files to Package for Standalone
 
 -main.exe
 
@@ -73,7 +73,7 @@ in the MathWorks Documentation Center.
 
 
 
-3. Definitions
+**3. Definitions**
 
 For information on deployment terminology, go to
 http://www.mathworks.com/help and select MATLAB Compiler >
