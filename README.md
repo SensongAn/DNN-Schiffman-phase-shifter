@@ -24,6 +24,7 @@ The input parameters, simulation environment and results are defined below:
     each phase shifter structure are included in the **“real_S11”, “imag_S11”** matrix and **“real_S21”, “imag_S21”** matrix, respectively.
     
 ![image](https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg)
+<img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/Schiffman_schematic.jpg" width="50%">
     
     
     
