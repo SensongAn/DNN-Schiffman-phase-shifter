@@ -63,9 +63,9 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 ```diff
 - Files to Package for Standalone
 ```
--main.exe (in **./dataset/** folder)
+-main.exe (in "**./dataset/**" folder)
 
--MyAppInstaller.exe (in **./dataset/** folder)
+-MyAppInstaller.exe (in "**./dataset/**" folder)
 
     Note: if end users are unable to download the MATLAB Runtime using the
     instructions in the previous section, include it when building your 
