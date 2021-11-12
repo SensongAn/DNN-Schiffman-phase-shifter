@@ -15,7 +15,7 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Boundary conditions:** Open and add space boundaries in all directions.
 
--   **Solver:** Frequency Domain Solver in CST.                              
+-   **Solver:** Transient Solver in CST.                              
 
 -   **Frequency:** 1 to 5 GHz, with a frequency spacing of 0.1GHz. 401 frequency points in total.
 
@@ -49,7 +49,7 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Boundary conditions:** Open and add space boundaries in all directions.
 
--   **Solver:** Frequency Domain Solver in CST.                              
+-   **Solver:** Transient Solver in CST.                              
 
 -   **Frequency:** 1 to 5 GHz, with a frequency spacing of 0.1GHz. 401 frequency points in total.
 
