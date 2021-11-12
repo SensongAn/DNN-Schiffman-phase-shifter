@@ -43,7 +43,7 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Substrate dimensions:** Width of all phase shifters are fixed to be 50 mm. Length are variables, determined by the length of the coupling lines.
 
--   **Parameters:** The four design parameters, including **w1, l1, w2, l2, l3, d1 and d2** showing in the figure below are listed in the **1st-7th** column in the **"parameter"** matrix. **w_50** indicates the width of the 50 Ohms transmission line, which equals to **3.4 mm** in this case.
+-   **Parameters:** The seven design parameters, including **w1, w2, l1, l2, l3, d1 and d2** showing in the figure below are listed in the **1st-7th** column in the **"parameter"** matrix. **w_50** indicates the width of the 50 Ohms transmission line, which equals to **3.4 mm** in this case.
 
 -   **Excitation:** Wave ports for both port 1 and port 2.
 
