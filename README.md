@@ -31,8 +31,8 @@ The input parameters, simulation environment and results are defined below:
 <br/>
 <br/>
 <br/>
-    
-    # Schiffman phase shifter dataset (dual section)
+
+# Schiffman phase shifter dataset (dual section)
 The input parameters, simulation environment and results are defined below:  
 
 <img src="https://github.com/SensongAn/DNN-Schiffman-phase-shifter/blob/main/pics/2.jpg" width="50%">
